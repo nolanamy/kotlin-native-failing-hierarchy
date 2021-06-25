@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/codeStyles
+!/codeStyles/*
+!/codeStyleSettings.xml
+!/inspectionProfiles
+!/inspectionProfiles/*
+!/scopes
+!/scopes/*
