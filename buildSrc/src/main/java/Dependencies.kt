@@ -1,7 +1,7 @@
 object CommonDependencies {
     object Versions {
         internal const val androidGradlePlugin = "4.2.1"
-        internal const val kotlin = "1.5.20-RC"
+        internal const val kotlin = "1.5.20"
 
         object AndroidSdk {
             const val compile = 30
